@@ -1,0 +1,3 @@
+command /giotest:
+    trigger:
+        send "Hello World" to player
